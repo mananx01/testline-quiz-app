@@ -39,7 +39,7 @@ This is an interactive quiz application built with Next.js. The app allows users
 ### Clone the repository:
 
 ```bash
-git clonehttps://github.com/mananx01/testline-quiz-app.git
+git clone https://github.com/mananx01/testline-quiz-app.git
 cd testline-quiz-app
 ```
 
